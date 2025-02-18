@@ -14,6 +14,7 @@ La documentación, herramientas y proyectos del servicio están organizados en l
 ### 🌍 Repositorios Públicos
 - **[herramientas-scripts](https://github.com/sio-icm/herramientas-scripts)**: Scripts y herramientas útiles para el procesamiento de datos oceanográficos.
 - **[datos-abiertos](https://github.com/sio-icm/datos-abiertos)**: Conjunto de datos abiertos relacionados con la oceanografía.
+- **[solicitudes-sio](https://github.com/sio-icm/solicitudes-sio)**: Plataforma para gestionar solicitudes de prestaciones del Servicio de Ingeniería Oceanográfica.
 
 ## 📜 Objetivo
 El Servicio de Ingeniería Oceanográfica tiene como misión principal el desarrollo y mantenimiento de instrumentación científica, procesamiento de datos oceanográficos y apoyo técnico en proyectos de investigación. A través de esta organización en GitHub, centralizamos nuestra documentación, herramientas y recursos.
